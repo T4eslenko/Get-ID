@@ -1,2 +1,3 @@
-telegram==0.0.1
+telegram
 telegram-bot
+python-telegram-bot
